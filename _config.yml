@@ -1,0 +1,14 @@
+layout_spectrum: 0.051812904654070735
+typography_spectrum: 0.15941306459717453
+color:
+  brandStrength: 0.15076393191702664
+  lightness: 0.18961041420698166
+  saturation: 0.6324861664324999
+  rhythmicContrast: 0.608979509677738
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: unreal insight
