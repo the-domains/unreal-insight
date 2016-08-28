@@ -6,9 +6,9 @@ color:
   saturation: 0.6324861664324999
   rhythmicContrast: 0.608979509677738
   brandColors:
-    - '#F6F792'
-    - '#333745'
-    - '#77C4D3'
-    - '#DAEDE2'
-    - '#EA2E49'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: unreal insight
